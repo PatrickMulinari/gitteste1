@@ -1,0 +1,4 @@
+[submodule "redhawk"]
+	path = redhawk
+	url = https://github.com/RedhawkSDR/redhawk
+	branch = master
